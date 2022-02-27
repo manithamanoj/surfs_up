@@ -1,7 +1,7 @@
 # surfs_up
 
  ## Introduction
-     In this challenge we are going to analyze the temperature trends before opening the surf shop, specifically the temperature data for the months of June and December in Oahu. We are going to use the technologies Python, Pandas functions and methods, and SQLAlchemy to analyze the data.
+  In this challenge we are going to analyze the temperature trends before opening the surf shop, specifically the temperature data for the months of June and December in Oahu. We are going to use the technologies Python, Pandas functions and methods, and SQLAlchemy to analyze the data.
 
 ### Analysis
 
@@ -22,7 +22,7 @@ First, we retrieve the temperatures for the month of December from the database 
 
 ### Result
 
-<img width="635" alt="Screen Shot 2022-02-27 at 1 11 25 PM" src="https://user-images.githubusercontent.com/72629108/155898148-88a674b0-2f3f-4e40-9d17-6eda79808913.png">
+<img width="623" alt="Screen Shot 2022-02-27 at 1 13 26 PM" src="https://user-images.githubusercontent.com/72629108/155898202-f7b53ee0-d376-40e3-bc8f-b585bd2680c9.png">
 
 
 ## Summary
